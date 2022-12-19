@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * Description: main -  program to print text
- * Return: 0 if run successfully  
+ * main -  program to print text.
+ * Return: 0 if run successfully. 
  */
 int main(void)
 {
