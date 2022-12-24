@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - this project is for if statements that prints is positive, is zero and is negative
+ * main - this project is for if statements
  * Return: 0 if successful
  */
 /* more headers goes there */
@@ -23,5 +23,4 @@ int main(void)
 	else
 		printf("%d is negative\n", n);
 	return (0);
-
 }
