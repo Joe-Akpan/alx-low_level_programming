@@ -23,10 +23,10 @@ int main(void)
 	/* your code goes there */
 
 	if (m > 5)
-		printf("%s %d is %d and is greather than 5\n", text, n, m);
-	else if (n == 0)
+		printf("%s %d is %d and is greater than 5\n", text, n, m);
+	else if (m == 0)
 		printf("%s %d is %d and is 0\n", text, n, m);
-	else if (n < 6)	
-		printf("%s %d is %d and is less than 6 and  not 0\n", text, n, m);
+	else if (m < 6)
+		printf("%s %d is %d and is less than 6 and not 0\n", text, n, m);
 	return (0);
 }
