@@ -2,7 +2,7 @@
 
 /**
  * main - program to print alphabets in reversr order.
- * return: 0 on success.
+ * Return: 0 on success.
 */
 
 int main(void)
