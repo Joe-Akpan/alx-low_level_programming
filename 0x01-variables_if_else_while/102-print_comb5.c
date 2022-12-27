@@ -19,7 +19,7 @@ int main(void)
 			putchar(val2 / 10 + '0');
 			putchar(val2 % 10 + '0');
 
-			if (val1 ==98 && val2 == 99)
+			if (val1 == 98 && val2 == 99)
 				continue;
 			putchar(',');
 			putchar(' ');
