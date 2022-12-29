@@ -1,11 +1,7 @@
-/*
- * File: 1-alphabet.c
-*/
-
 #include "main.h"
 
 /**
- * main - program to print alphabet
+ * print_alphabet - program to print alphabet
  * Return: 0 always
 */
 
