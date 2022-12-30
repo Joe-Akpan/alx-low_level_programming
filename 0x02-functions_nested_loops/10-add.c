@@ -2,8 +2,8 @@
 
 /**
  * add - programs to add two mumber
- * num1: firat number to add 
- * num2: second number to add
+ * @num1: firat number to add
+ * @num2: second number to add
  * Return: result
 */
 
