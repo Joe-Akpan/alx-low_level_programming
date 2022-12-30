@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * hack_bauer - program to print time
+ * jack_bauer - program to print time
  * Jack Bauer printing from 0
 */
 
@@ -9,7 +9,7 @@ void jack_bauer(void)
 {
 	int hour, minute;
 
-	for (hour = 0; hour <=23; hour++)
+	for (hour = 0; hour <= 23; hour++)
 	{
 		for (minute = 0; minute <= 59; minute++)
 		{
