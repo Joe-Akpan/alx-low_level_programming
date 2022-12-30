@@ -4,9 +4,7 @@
  * times_table - program to print 9 multiplcation table
 */
 
-
 void times_table(void)
-
 {
 	int num, mult, prod;
 	
